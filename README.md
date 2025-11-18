@@ -112,7 +112,7 @@ License
 
 This project is licensed under the MIT License.
 
-git clone https://github.com/yourusername/react-router-project.git
+git clone https://github.com/Arpithajain26/react-router.git
 cd react-router-project
 Install dependencies:<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dfbc9390-9c20-4376-87de-a33321e76c64" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/923b2777-16df-4bf4-9570-35159275f778" />
