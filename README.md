@@ -117,15 +117,9 @@ cd react-router-project
 Install dependencies:<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dfbc9390-9c20-4376-87de-a33321e76c64" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/923b2777-16df-4bf4-9570-35159275f778" />
 
-
-
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
 npm run dev
 Usage
 Navigate between pages using the links in the header or footer.
@@ -138,20 +132,4 @@ Unknown routes show a custom 404 page.
 
 Contributing
 Contributions are welcome!
-
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Commit your changes (git commit -m 'Add some feature')
-
-Push to the branch (git push origin feature/your-feature)
-
-Open a pull request
-
-License
-This project is licensed under the MIT License.
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4fad4cdb-f940-4ac4-ba6a-cd1e09179c3d" />
-![Uploading image.png…]()
-
 
